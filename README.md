@@ -4,11 +4,9 @@
 
 As a recent graduate of a rigorous full-stack coding bootcamp, I am thrilled to embark on my journey as a junior developer. With a strong foundation in web development, I have gained hands-on experience in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and SQL. During the bootcamp, I worked on several collaborative projects that sharpened my problem-solving skills and taught me the importance of clean code and efficient development practices.
 
-What sets me apart is my passion for creating user-friendly and visually appealing applications. I strive to build intuitive interfaces that enhance the user experience and make a meaningful impact. I am eager to leverage my creativity and technical skills to contribute to innovative projects and learn from experienced developers in a collaborative team environment.
+Beyond coding, I am a curious learner who enjoys whitewater rafting, carpentry/woodworking, sewing, spin fishing, playing guitar and creating new and different projects in general. I am adept at adapting to new challenges and thrive in fast-paced, deadline-driven environments. With my strong attention to detail and dedication to delivering high-quality work, I am committed to continuously improving my skills and making valuable contributions as I grow in my development career.
 
-Beyond coding, I am a curious learner who enjoys staying updated on the latest industry trends and emerging technologies. I am adept at adapting to new challenges and thrive in fast-paced, deadline-driven environments. With my strong attention to detail and dedication to delivering high-quality work, I am committed to continuously improving my skills and making valuable contributions as I grow in my development career.
-
-When I'm not coding, you can find me exploring new coding concepts, attending tech meetups, or enjoying outdoor activities. I value teamwork, open communication, and the opportunity to make a positive impact through technology.
+When I'm not coding, you can find me out in the gorgeous Sawtooth Mountains in Stanley, Idaho. This small town is the gateway to any recreational activity you might seek out. From hiking, lake days, or river trips with the dog to woodburning stoves with minus twenty degree weather - I have a love and passion for this place I am fortunate enough to call my home. 
 
 I am excited to contribute my enthusiasm, technical skills, and passion for learning to a dynamic development team. I am ready to take on new challenges and collaborate with fellow developers to create innovative solutions that drive results.
 
