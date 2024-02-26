@@ -2,13 +2,13 @@
 
 ## About Me
 
-As a recent graduate of a rigorous full-stack coding bootcamp, I am thrilled to embark on my journey as a junior developer. With a strong foundation in web development, I have gained hands-on experience in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and SQL. During the bootcamp, I worked on several collaborative projects that sharpened my problem-solving skills and taught me the importance of clean code and efficient development practices.
+As a recent graduate of a rigorous full-stack coding bootcamp, I'm thrilled to dive into the world of web development. With a solid foundation in both front-end and back-end development, I'm ready to tackle the exciting challenges ahead. Collaborative projects during my bootcamp taught me the value of clean code and efficient development practices, skills I'm eager to apply in real-world scenarios. My attention to detail ensures that I deliver high-quality work, and I'm committed to continual growth as a developer.
 
-Beyond coding, I am a curious learner who enjoys whitewater rafting, carpentry/woodworking, sewing, spin fishing, playing guitar and creating new and different projects in general. I am adept at adapting to new challenges and thrive in fast-paced, deadline-driven environments. With my strong attention to detail and dedication to delivering high-quality work, I am committed to continuously improving my skills and making valuable contributions as I grow in my development career.
+What sets me apart is my passion for creating user-friendly and visually appealing applications. I love crafting intuitive interfaces that enhance the user experience and make a real impact. I'm excited to bring this creativity and technical skill to the table, collaborating with experienced developers to tackle innovative projects and learn from their expertise.
 
-When I'm not coding, you can find me out in the gorgeous Sawtooth Mountains in Stanley, Idaho. This small town is the gateway to any recreational activity you might seek out. From hiking, lake days, or river trips with the dog to woodburning stoves with minus twenty degree weather - I have a love and passion for this place I am fortunate enough to call my home. 
+Nestled in the breathtaking wilderness of Stanley, Idaho, I find inspiration in exploring the great outdoors. Whether it's hiking through rugged terrain with my dog or navigating local rivers' rapids, adventure fuels my spirit. As an active member of my community, I volunteer as an EMT, contributing to the well-being of those around me. When I'm not coding, you'll find me amidst the stunning Sawtooth Mountains, indulging in my passions for whitewater rafting, woodworking, and playing guitar.
 
-I am excited to contribute my enthusiasm, technical skills, and passion for learning to a dynamic development team. I am ready to take on new challenges and collaborate with fellow developers to create innovative solutions that drive results.
+I'm eager to bring my enthusiasm, technical skills, and love for learning to a dynamic development team. Ready to embrace new challenges and collaborate on innovative solutions, I'm excited to embark on this journey in the ever-evolving world of technology.
 
 ## How To Reach Me
 
@@ -17,7 +17,7 @@ I am excited to contribute my enthusiasm, technical skills, and passion for lear
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:km.okelley89@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://github.com/TheKelsenator/stellers-jay-20">
+<a href="https://guarded-sands-00128-f26fc222d3d4.herokuapp.com/">
 <img src="https://img.shields.io/badge/My_Portfolio-yellow?style=for-the-badge&logo=AngelList&logoColor=white"></a></p> 
 
 ## Languages and Tools
